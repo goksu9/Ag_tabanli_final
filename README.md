@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # SQL Server Performans, Yedekleme ve Güvenlik Projesi
 
 Bu projede SQL Server üzerinde aşağıdaki 7 konu üzerine çalışmalar yapılmıştır:
