@@ -15,10 +15,8 @@ Bu projede SQL Server üzerinde aşağıdaki 7 konu üzerine çalışmalar yapı
 
 ## 🔹 Proje 3: Veritabanı Güvenliği ve Erişim Kontrolü
 - Kullanıcı yetkilendirme
-- TDE ile veri ş
-=======
-# sql-server-projeleri
->>>>>>> fb0fadf6e77d166e3fceba3279ac51dee35e13d6
+- TDE ile veri şifreleme
+
 ## 🔹 **Proje 4: Veritabanı Yük Dengeleme ve Dağıtık Yapılar**
 
 - SQL Server Replication ve Database Mirroring konularının uygulanması  
